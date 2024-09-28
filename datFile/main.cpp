@@ -92,7 +92,7 @@ struct Data
 int main()
 {
     // ファイル名
-    const std::string filename = "output_binary.dat";
+    const std::string filename = "Data/output_binary.dat";
 
     // データを作成
     std::vector<Data> dataList =
